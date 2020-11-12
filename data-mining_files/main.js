@@ -1,0 +1,1 @@
+jQuery(document).ready(function ($) {WidgetSetting.setWidgetSetting('wze29', 'failedMessage', 'ارسال پیام با شکست مواجه شد.');WidgetSetting.setWidgetSetting('wze29', 'invalidMailMessage', 'ایمیل معتبر نمی باشد.');WidgetSetting.setWidgetSetting('wze29', 'requiredInputMessage', 'لطفا تمام فیلدها الزامی را پر کنید.');})

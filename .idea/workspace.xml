@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="610bed3b-f92e-4103-90db-c3f1351b40f1" name="Default Changelist" comment="" />
+    <list default="true" id="610bed3b-f92e-4103-90db-c3f1351b40f1" name="Default Changelist" comment="add projects file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/34eb2410c9d9427db9d4c7c9e988c450.w_79,h_79,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/5efe4604babb42e389fa521bf9f4d970.w_317,h_116,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/62d0f271154d417ead543f55bee0aafe.w_24,h_19,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/6af0d4e99198428297941ab9b8f1d50e.w_537,h_573,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/8a719c1f4c6245a69d2bbf8f60d3435e.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/92d43da1a0144119804e738e582db40e.w_537,h_573,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/97337cd655b5400ca28825d3ceb2e999.w_537,h_573,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/a0e4a8d7ac1a48a495b20309bef10f4a.w_537,h_573,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/ab735fd74ddb4a39a8c32e219065cf7e.w_537,h_573,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/animation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/b98cbbf7ae7a48ee9cda64051e944570.w_79,h_79,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/c577d62c583e4f5cac3c5b9002f778f0.w_79,h_79,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/e0671f4fbfce40499eead90120d5dd3e.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/f3a8b2ea1fad426ab93856e19e9478e2.w_537,h_573,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/flexslider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/frontBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/imagehover.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/jquery.fancybox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/jquery.fancybox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/jquery.flexslider-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/lodash.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/remodal-default-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/remodal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/remodal.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,10 +65,35 @@
       <option name="presentableId" value="Default" />
       <updated>1605049099476</updated>
       <workItem from="1605049100529" duration="834000" />
+      <workItem from="1605080016053" duration="442000" />
+      <workItem from="1605120929744" duration="12000" />
+      <workItem from="1605211342274" duration="646000" />
     </task>
+    <task id="LOCAL-00001" summary="format html files">
+      <created>1605080069303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605080069303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="format html files" />
+    <option name="LAST_COMMIT_MESSAGE" value="format html files" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="511" y="95" width="887" height="872" key="CommitChangelistDialog2" timestamp="1605211491077">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="511" y="95" width="887" height="872" key="CommitChangelistDialog2/0.27.1920.1001@0.27.1920.1001" timestamp="1605211491077" />
+    <state x="555" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1605080070691">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="555" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/0.27.1920.1001@0.27.1920.1001" timestamp="1605080070691" />
   </component>
 </project>
