@@ -1,41 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="610bed3b-f92e-4103-90db-c3f1351b40f1" name="Default Changelist" comment="add projects file">
+    <list default="true" id="610bed3b-f92e-4103-90db-c3f1351b40f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/about-us_files/0859335b0231492d9de50bf56e4f99ff.w_274,h_183,r_k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/19e316793d4b4c78bd57d8e40ac41f02.w_201,h_190,r_k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/54f59e00d5f24eddba83f5f0a0760caf.w_195,h_187,r_k.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/5efe4604babb42e389fa521bf9f4d970.w_317,h_116,r_k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/5efe4604babb42e389fa521bf9f4d970.w_479,h_367,r_k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/f640ff2abb8940d9845be04f648c28a6.w_199,h_190,r_k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/frontBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/remodal-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/remodal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/remodal.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about-us_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/0859335b0231492d9de50bf56e4f99ff.w_274,h_183,r_k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/5efe4604babb42e389fa521bf9f4d970.w_317,h_116,r_k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/c9248d0cefbf4ed3bd3358d282c662a6.w_748,h_450,r_k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/c9248d0cefbf4ed3bd3358d282c662a6.w_90,h_60,r_c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/frontBase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/remodal-default-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/remodal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/remodal.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog_files/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-mining_files/580b6ea0aa2140208d224d5e9e32bfc5.w_590,h_310,r_k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-mining_files/5930f6cbcd234a879cd49f18b78c1171.w_590,h_310,r_k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-mining_files/86d93ecb626c46cf90e3c38f941afc54.w_590,h_310,r_k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_files/6b6ed3b81dd3462698aa4328770f43f4.w_1052,h_750,r_k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_files/a0ef583441e54a6d871c066cd91ebe23.w_482,h_395,r_k.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-mining.html" beforeDir="false" afterPath="$PROJECT_DIR$/data-mining.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-mining_files/34eb2410c9d9427db9d4c7c9e988c450.w_79,h_79,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-mining_files/62d0f271154d417ead543f55bee0aafe.w_24,h_19,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-mining_files/b98cbbf7ae7a48ee9cda64051e944570.w_79,h_79,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-mining_files/c577d62c583e4f5cac3c5b9002f778f0.w_79,h_79,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-mining_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/data-mining_files/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/34eb2410c9d9427db9d4c7c9e988c450.w_79,h_79,r_k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/5efe4604babb42e389fa521bf9f4d970.w_317,h_116,r_k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/62d0f271154d417ead543f55bee0aafe.w_24,h_19,r_k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/6af0d4e99198428297941ab9b8f1d50e.w_537,h_573,r_k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/8a719c1f4c6245a69d2bbf8f60d3435e.w_90,h_60,r_c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/92d43da1a0144119804e738e582db40e.w_537,h_573,r_k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/97337cd655b5400ca28825d3ceb2e999.w_537,h_573,r_k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/a0e4a8d7ac1a48a495b20309bef10f4a.w_537,h_573,r_k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/ab735fd74ddb4a39a8c32e219065cf7e.w_537,h_573,r_k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/animation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/b98cbbf7ae7a48ee9cda64051e944570.w_79,h_79,r_k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/c577d62c583e4f5cac3c5b9002f778f0.w_79,h_79,r_k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/e0671f4fbfce40499eead90120d5dd3e.w_90,h_60,r_c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/f3a8b2ea1fad426ab93856e19e9478e2.w_537,h_573,r_k.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/flexslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/frontBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/imagehover.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/jquery.fancybox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/jquery.fancybox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/jquery.flexslider-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/lodash.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/remodal-default-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/remodal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/remodal.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/پروژه ها _ هدف_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_files/ccfe02c95efc4700ae2d7b90e7a798d2.w_538,h_468,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_files/f9b6349783cb4f708a275050f7b4d614.w_1052,h_750,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_files/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/index_files/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/index_files/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/0859335b0231492d9de50bf56e4f99ff.w_274,h_183,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/34eb2410c9d9427db9d4c7c9e988c450.w_79,h_79,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/46b7d0094a774b32a4bb1638d1b328ea.w_364,h_250,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/5efe4604babb42e389fa521bf9f4d970.w_317,h_116,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/62d0f271154d417ead543f55bee0aafe.w_24,h_19,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/680fca9ec0ec4b56b0259b00b20580a6.w_364,h_250,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/9f0585d51ca940d9ab948642f6e7301e.w_407,h_243,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/b98cbbf7ae7a48ee9cda64051e944570.w_79,h_79,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/c577d62c583e4f5cac3c5b9002f778f0.w_79,h_79,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/c93c49f517fe4a7b919ca958a501c85e.w_388,h_145,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/ed42d8699f224357b5e1c17657ce5f21.w_364,h_250,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/f21fa3ef73da4007a833c1005da877d2.w_407,h_243,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/frontBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/remodal-default-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/remodal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/remodal.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/5efe4604babb42e389fa521bf9f4d970.w_317,h_116,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/8a719c1f4c6245a69d2bbf8f60d3435e.w_748,h_450,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/8a719c1f4c6245a69d2bbf8f60d3435e.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/9b63890e14e44944b094f9da469289ad.w_748,h_450,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/9b63890e14e44944b094f9da469289ad.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/e0671f4fbfce40499eead90120d5dd3e.w_748,h_450,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/e0671f4fbfce40499eead90120d5dd3e.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/e822d39452db45e5af8442e14ebcbe22.w_748,h_450,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/e822d39452db45e5af8442e14ebcbe22.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/e83112d8b4a94af5bdbce55e88d5d77b.w_748,h_450,r_k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/e83112d8b4a94af5bdbce55e88d5d77b.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/frontBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/remodal-default-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/remodal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/remodal.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/اخبار _ هدف_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/5efe4604babb42e389fa521bf9f4d970.w_317,h_116,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/8a719c1f4c6245a69d2bbf8f60d3435e.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/e0671f4fbfce40499eead90120d5dd3e.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/frontBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/remodal-default-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/remodal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/remodal.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/تماس با ما _ هدف_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/33aec8e03bf943c3a5e5f3cca4accf48.w_124,h_125,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/551015d6b8104d58bf4b12ba84d08701.w_142,h_129,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/5efe4604babb42e389fa521bf9f4d970.w_317,h_116,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/5efe4604babb42e389fa521bf9f4d970.w_530,h_410,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/6a6d49b73dae42e58028af20573d5a36.w_142,h_121,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/8a719c1f4c6245a69d2bbf8f60d3435e.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/9989804b22ac467dbcb01309aefd3683.w_145,h_113,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/c08224fa45624a8aaca8fdbfe2a62a7c.w_143,h_107,r_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/e0671f4fbfce40499eead90120d5dd3e.w_90,h_60,r_c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/frontBase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/remodal-default-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/remodal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/remodal.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/درباره ما _ هدف_files/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +133,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +152,8 @@
       <workItem from="1605049100529" duration="834000" />
       <workItem from="1605080016053" duration="442000" />
       <workItem from="1605120929744" duration="12000" />
-      <workItem from="1605211342274" duration="646000" />
+      <workItem from="1605211342274" duration="1332000" />
+      <workItem from="1605292741365" duration="1253000" />
     </task>
     <task id="LOCAL-00001" summary="format html files">
       <created>1605080069303</created>
@@ -76,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605080069303</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add data mining page">
+      <created>1605212018468</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605212018468</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,16 +177,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="format html files" />
-    <option name="LAST_COMMIT_MESSAGE" value="format html files" />
+    <MESSAGE value="add data mining page" />
+    <option name="LAST_COMMIT_MESSAGE" value="add data mining page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="511" y="95" width="887" height="872" key="CommitChangelistDialog2" timestamp="1605211491077">
+    <state x="511" y="95" width="887" height="872" key="CommitChangelistDialog2" timestamp="1605212018225">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state x="511" y="95" width="887" height="872" key="CommitChangelistDialog2/0.27.1920.1001@0.27.1920.1001" timestamp="1605211491077" />
-    <state x="555" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1605080070691">
+    <state x="511" y="95" width="887" height="872" key="CommitChangelistDialog2/0.27.1920.1001@0.27.1920.1001" timestamp="1605212018225" />
+    <state x="182" y="116" width="1536" height="837" key="MergeDialog" timestamp="1605212038094">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state x="555" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/0.27.1920.1001@0.27.1920.1001" timestamp="1605080070691" />
+    <state x="182" y="116" width="1536" height="837" key="MergeDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1605212038094" />
+    <state x="591" y="288" width="728" height="485" key="MultipleFileMergeDialog" timestamp="1605212038098">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="591" y="288" width="728" height="485" key="MultipleFileMergeDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1605212038098" />
+    <state x="555" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1605212051354">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="555" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/0.27.1920.1001@0.27.1920.1001" timestamp="1605212051354" />
   </component>
 </project>
