@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="610bed3b-f92e-4103-90db-c3f1351b40f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about-us-old.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us_files/frontBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/about-us_files/frontBase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/about-us_files/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-mining.html" beforeDir="false" afterPath="$PROJECT_DIR$/data-mining-old.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-mining_files/frontBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/data-mining_files/frontBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-mining_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/data-mining_files/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,8 @@
       <workItem from="1605120929744" duration="12000" />
       <workItem from="1605211342274" duration="1332000" />
       <workItem from="1605292741365" duration="2676000" />
-      <workItem from="1606757854826" duration="758000" />
+      <workItem from="1606757854826" duration="1052000" />
+      <workItem from="1606759258997" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="format html files">
       <created>1605080069303</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605303860508</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1606758880551</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606758880551</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
