@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="610bed3b-f92e-4103-90db-c3f1351b40f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/about-us-old.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-mining.html" beforeDir="false" afterPath="$PROJECT_DIR$/data-mining.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us_files/frontBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/about-us_files/frontBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us_files/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/about-us_files/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,7 +50,8 @@
       <workItem from="1605080016053" duration="442000" />
       <workItem from="1605120929744" duration="12000" />
       <workItem from="1605211342274" duration="1332000" />
-      <workItem from="1605292741365" duration="2046000" />
+      <workItem from="1605292741365" duration="2676000" />
+      <workItem from="1606757854826" duration="758000" />
     </task>
     <task id="LOCAL-00001" summary="format html files">
       <created>1605080069303</created>
@@ -68,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605294054154</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1605303860507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605303860508</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,23 +92,5 @@
     <MESSAGE value="add data mining page" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="511" y="95" width="887" height="872" key="CommitChangelistDialog2" timestamp="1605294053774">
-      <screen x="0" y="27" width="1920" height="1001" />
-    </state>
-    <state x="511" y="95" width="887" height="872" key="CommitChangelistDialog2/0.27.1920.1001@0.27.1920.1001" timestamp="1605294053774" />
-    <state x="182" y="116" width="1536" height="837" key="MergeDialog" timestamp="1605212038094">
-      <screen x="0" y="27" width="1920" height="1001" />
-    </state>
-    <state x="182" y="116" width="1536" height="837" key="MergeDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1605212038094" />
-    <state x="591" y="288" width="728" height="485" key="MultipleFileMergeDialog" timestamp="1605212038098">
-      <screen x="0" y="27" width="1920" height="1001" />
-    </state>
-    <state x="591" y="288" width="728" height="485" key="MultipleFileMergeDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1605212038098" />
-    <state x="555" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1605294055923">
-      <screen x="0" y="27" width="1920" height="1001" />
-    </state>
-    <state x="555" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/0.27.1920.1001@0.27.1920.1001" timestamp="1605294055923" />
   </component>
 </project>
